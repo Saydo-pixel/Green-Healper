@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>822431398813-i0e46su52vq6k0fbufe0t7fp5flobgui.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.822431398813-i0e46su52vq6k0fbufe0t7fp5flobgui</string>
+    <key>API_KEY</key>
+    <string>AIzaSyCtXSbzaUv_nJ_NO8a8jZiRc9FWnLhwxwA</string>
+    <key>GCM_SENDER_ID</key>
+    <string>822431398813</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>bp.polytechnic.EcoShop</string>
+    <key>PROJECT_ID</key>
+    <string>ecoshop-91659</string>
+    <key>STORAGE_BUCKET</key>
+    <string>ecoshop-91659.firebasestorage.app</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:822431398813:ios:936e33ec449c7842320d74</string>
+</dict>
+</plist>
